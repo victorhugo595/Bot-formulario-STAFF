@@ -1,4 +1,4 @@
-👋 Olá sou o Uknzz um desenvilvidor iniciante, estou postando alguns projetos básicos que estou treinando.
+👋 Olá, eu sou o Uknzz, um desenvolvedor iniciante, estou postando alguns projetos básicos que estou treinando.
 
 💻 Bot Formulário Staff - Discord - Fivem
 
